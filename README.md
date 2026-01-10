@@ -47,3 +47,22 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+### Hi, I'm Vivek 👋
+
+**Cloud Database Administrator | Aspiring Data Engineer**
+
+I work with production databases, ensure system reliability, and keep data platforms running smoothly. At the same time, I’m actively building the skills needed to transition into modern data engineering.
+
+---
+
+### 🌐 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/vvsvivek/)
+
+
+
